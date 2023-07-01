@@ -37,7 +37,7 @@
         }
     ],
 
-    "Resume":[
+    "work":[
         {
             "id":"1",
             "JobTitle":"StockCounter ",
@@ -118,6 +118,15 @@
           "time":" feb 2022- may 2022",
           "qualification":"currently busy"
       
+        },
+         "resume":[
+        {
+            "id":"1",
+            "name":"logan",
+            "basicInfo":"lorem text abotu lords knows what ",
+            "motivation":"lorem text for now and why you should hire me "
+
         }
+    ]
     ]
 }
