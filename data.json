@@ -118,7 +118,8 @@
           "time":" feb 2022- may 2022",
           "qualification":"currently busy"
       
-        },
+        }
+    ],
          "resume":[
         {
             "id":"1",
@@ -128,5 +129,5 @@
 
         }
     ]
-    ]
 }
+    
