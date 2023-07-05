@@ -103,18 +103,21 @@
         {
           "id":"1",
           "place":"Modderdam High",
+          "image":"https://i.postimg.cc/HLC2HcW2/modderdam-logo.jpg",
           "time":"2014 to 2018",
           "qualification": "Grade 12 (Matric)"
         },
         {
           "id":"2",
           "place":"College Of Cape Town",
+          "image":"https://i.postimg.cc/1zcKzmfZ/college-cape-log.jpg",
           "time":"2020-2021",
           "qualification": "N1- n3 building and civil"
         },
         {
           "id":"3",
           "place":"Rosebank College",
+          "image":"https://i.postimg.cc/t465LtbJ/rc-logo.jpg",
           "time":" feb to may 2022",
           "qualification": "incompelted Web Dev"
         
@@ -122,6 +125,7 @@
         {
           "id":"4",
           "place":"Life Choice",
+          "image":"https://i.postimg.cc/vBYtgJVx/lc-academy-wlogo.webp",
           "time":" feb 2022- may 2022",
           "qualification":"currently busy"
       
