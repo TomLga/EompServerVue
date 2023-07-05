@@ -9,9 +9,9 @@
         },
         {
             "id":"2",
-            "image":"https://i.postimg.cc/sfLgCSsg/LT-logo.png",
+            "image":"https://i.postimg.cc/0jvMxjxv/Screenshot-2023-07-01-141240.png",
             "name":"Calculator",
-            "gitLink":"",
+            "gitLink":"https://github.com/TomLga/calculator",
             "netLink":"https://logancalculator.netlify.app/" 
         },
         {
@@ -34,6 +34,13 @@
             "name":"To do List",
             "gitLink":"http//",
             "netLink":"http//" 
+        }
+        {
+            "id":"",
+            "image":"https://i.postimg.cc/Qdd7HF7x/calender-project-sshot.png",
+            "name":"Calendar",
+            "gitLink":"https://github.com/TomLga/calendar-",
+            "netLink":"https://calendar0a5b9.netlify.app/" 
         }
     ],
 
