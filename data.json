@@ -30,7 +30,7 @@
         },
         {
             "id":"5",
-            "image":"[to-do-list.jpg](https://postimg.cc/yWR2c4sM)",
+            "image":"https://postimg.cc/yWR2c4sM",
             "name":"To do List",
             "gitLink":"https://github.com/loganberrysalad/TODOLIST1",
             "netLink":"https://loganthomastodolist.netlify.app/" 
