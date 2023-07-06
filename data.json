@@ -2,10 +2,10 @@
     "projects":[
         {
             "id":"1",
-            "image":"https://i.postimg.cc/sfLgCSsg/LT-logo.png ",
-            "name":" first Portfolio",
-            "gitLink":"http//",
-            "netLink":"http//" 
+            "image":"https://i.postimg.cc/Qdd7HF7x/calender-project-sshot.png",
+            "name":"Calendar",
+            "gitLink":"https://github.com/TomLga/calendar-",
+            "netLink":"https://calendar0a5b9.netlify.app/" 
         },
         {
             "id":"2",
@@ -16,31 +16,31 @@
         },
         {
             "id":"3",
-            "image":"https://i.postimg.cc/sfLgCSsg/LT-logo.png",
+            "image":"https://i.postimg.cc/7ZWGW3NK/Screenshot-2023-07-06-102353.png",
             "name":"eCommerces",
-            "gitLink":"http//",
-            "netLink":"http//" 
+            "gitLink":"https://github.com/loganberrysalad/JS-EOMP-1",
+            "netLink":"https://loganthomas-js-eomp.netlify.app/" 
         },
         {
             "id":"4",
-            "image":"https://i.postimg.cc/sfLgCSsg/LT-logo.png",
+            "image":"https://i.postimg.cc/28CZb867/Screenshot-2023-07-06-102146.png",
             "name":"Tempreture Converter",
-            "gitLink":"http//",
-            "netLink":"http//" 
+            "gitLink":"https://github.com/loganberrysalad/tempCon1",
+            "netLink":"https://logantempconverter.netlify.app/" 
         },
         {
             "id":"5",
-            "image":"https://i.postimg.cc/sfLgCSsg/LT-logo.png",
+            "image":"[to-do-list.jpg](https://postimg.cc/yWR2c4sM)",
             "name":"To do List",
-            "gitLink":"http//",
-            "netLink":"http//" 
+            "gitLink":"https://github.com/loganberrysalad/TODOLIST1",
+            "netLink":"https://loganthomastodolist.netlify.app/" 
         },
         {
             "id":"6",
-            "image":"https://i.postimg.cc/Qdd7HF7x/calender-project-sshot.png",
-            "name":"Calendar",
-            "gitLink":"https://github.com/TomLga/calendar-",
-            "netLink":"https://calendar0a5b9.netlify.app/" 
+            "image":"https://i.postimg.cc/1txg9y26/Screenshot-2023-07-06-102027.png",
+            "name":"BMI Calculator",
+            "gitLink":"https://github.com/loganberrysalad/bmi_Calculator",
+            "netLink":"https://loganbmicalculator.netlify.app/" 
         }
     ],
 
@@ -49,19 +49,19 @@
             "id":"1",
             "JobTitle":"StockCounter ",
             "position":"counter and scanner",
-            "duration":"part-time from 2017-2021(flexable)" 
+            "duration":"part-time from 2017-2021" 
         },
         {
             "id":"2",
             "JobTitle":"Dischem-Pharmacy",
             "position":"Cashier",
-            "duration":"Nov2018-feb2019 (3 months)" 
+            "duration":"Nov2018-feb2019" 
         },
         {
             "id":"3",
             "JobTitle":"Giants, Epping",
             "position":"merchantdisher",
-            "duration":"Aug 2022-March2023 (7 months)" 
+            "duration":"Aug 2022-March2023 " 
         }
     ],
 
@@ -81,15 +81,15 @@
         },
         {
             "id":"3",
-            "image":"https://i.postimg.cc/BbGXcKTV/C12-C2-Siyamanga-Zweni-2.jpg",
-            "name":"Siyamanga",
-            "msg":"Working with Logan was an incredible experience. His professionalism, attention to detail, and communication skills made the entire process easy. He consistently exceeded my expectations and delivered exceptional results. I would highly recommend Logan to anyone looking for a talented and dedicated professional"
-        },
-        {
-            "id":"4",
             "image":"https://i.postimg.cc/Y9xLCr5m/kgodishoface.jpg",
             "name":"Kgodisho",
             "msg":"Logan Thomas is dedicated, hard working and a team player. He works well with his peers and performs well on his projects. He has a good understanding of web development and would be a valuable addition to any team that is lucky enough to have him"
+        },
+        {
+            "id":"4",
+            "image":"https://i.postimg.cc/BbGXcKTV/C12-C2-Siyamanga-Zweni-2.jpg",
+            "name":"Siyamanga",
+            "msg":"Working with Logan was an incredible experience. His professionalism, attention to detail, and communication skills made the entire process easy. He consistently exceeded my expectations and delivered exceptional results. I would highly recommend Logan to anyone looking for a talented and dedicated professional"
         },
         {
             "id":"5",
@@ -105,7 +105,7 @@
           "place":"Modderdam High",
           "image":"https://i.postimg.cc/HLC2HcW2/modderdam-logo.jpg",
           "time":"2014 to 2018",
-          "qualification": "Grade 12 (Matric)"
+          "qualification": "Grade 12"
         },
         {
           "id":"2",
@@ -119,7 +119,7 @@
           "place":"Rosebank College",
           "image":"https://i.postimg.cc/t465LtbJ/rc-logo.jpg",
           "time":" feb to may 2022",
-          "qualification": "incompelted Web Dev"
+          "qualification": "Web Development"
         
         },
         {
@@ -127,16 +127,19 @@
           "place":"Life Choice",
           "image":"https://i.postimg.cc/vBYtgJVx/lc-academy-wlogo.webp",
           "time":" feb 2022- may 2022",
-          "qualification":"currently busy"
+          "qualification":"Web Development (currently busy)"
       
         }
     ],
          "resume":[
         {
             "id":"1",
-            "name":"logan",
-            "basicInfo":"lorem text abotu lords knows what ",
-            "motivation":"lorem text for now and why you should hire me "
+            "name":"Logan Thomas",
+            "dob":"2 may2000",
+            "basicInfo":"Cape Town,Western Cape",
+            "email":"lloganThomas@gmail.com",
+            "call":"+27 067 627 3770",
+            "motivation":"What sets me apart is not only my technical proficiency but also my strong drive and motivation to continuously learn and grow. I am always seeking new challenges and opportunities to expand my knowledge and skills. I believe that innovation and creativity are key drivers of success, and I am eager to bring fresh perspectives and ideas to my work space.I am confident that my dedication, adaptability, and strong work ethic would make me a valuable asset to any team.I look forward to any and all opportunities to come "
 
         }
     ]
