@@ -17,14 +17,14 @@
         {
             "id":"3",
             "image":"https://i.postimg.cc/7ZWGW3NK/Screenshot-2023-07-06-102353.png",
-            "name":"eCommerces",
+            "name":"E-commerce",
             "gitLink":"https://github.com/loganberrysalad/JS-EOMP-1",
             "netLink":"https://loganthomas-js-eomp.netlify.app/" 
         },
         {
             "id":"4",
             "image":"https://i.postimg.cc/28CZb867/Screenshot-2023-07-06-102146.png",
-            "name":"Tempreture Converter",
+            "name":"Temperature conversion",
             "gitLink":"https://github.com/loganberrysalad/tempCon1",
             "netLink":"https://logantempconverter.netlify.app/" 
         },
@@ -60,7 +60,7 @@
         {
             "id":"3",
             "JobTitle":"Giants, Epping",
-            "position":"merchantdisher",
+            "position":"Merchandising",
             "duration":"Aug 2022-March2023 " 
         }
     ],
@@ -141,9 +141,9 @@
         {
             "id":"1",
             "name":"Logan Thomas",
-            "dob":"2 may2000",
-            "basicInfo":"Cape Town,Western Cape",
-            "email":"lloganThomas@gmail.com",
+            "dob":"2 may 2000",
+            "basicInfo":"Cape Town, Western Cape",
+            "email":"llogantthomas2@gmail.com",
             "call":"+27 067 627 3770",
             "motivation":"What sets me apart is not only my technical proficiency but also my strong drive and motivation to continuously learn and grow. I am always seeking new challenges and opportunities to expand my knowledge and skills. I believe that innovation and creativity are key drivers of success, and I am eager to bring fresh perspectives and ideas to my work space.I am confident that my dedication, adaptability, and strong work ethic would make me a valuable asset to any team.I look forward to any and all opportunities to come "
 
